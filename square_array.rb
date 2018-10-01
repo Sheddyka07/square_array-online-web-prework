@@ -2,7 +2,7 @@ numbers = [1, 2, 3]
 
 def square_array(numbers)
   new array = []
-  numbers.each {|x| new_array x ** 2}
+  array.each {|x| new_array x ** 2}
   new_array
 end
 
