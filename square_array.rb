@@ -1,6 +1,6 @@
 def square_array(numbers)
   new array = []
-  numbers.each {|x| print sqrt(x) }
+  numbers.each {|x| new_array x ** 2}
   
   
   numbers = [1, 2, 3]
